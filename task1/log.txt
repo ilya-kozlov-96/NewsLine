@@ -1,0 +1,11 @@
+commit 225e3ced9dde44dbc6f361aa153d436ae737d934
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Mon Mar 20 22:25:24 2017 +0300
+
+    add project and status.txt
+
+commit 9682cce06abb4a5e815b960e77222bcd4f47d6e2
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Mon Mar 20 22:22:28 2017 +0300
+
+    add .gitignore
